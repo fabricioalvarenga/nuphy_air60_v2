@@ -1,15 +1,6 @@
 # nuphy_air60_v2
 Key definitions for use with Via.app (usevia.app)
 
-## Draft definition
-Use nuphy-air60-v2-via_definition.json file
-
-## Original key map
-Use nuphy_air60_v2.original_layout.json file
-
-## Key map with Grave Scape and DEL as GRAVE and TILDE
-Use nuphy_air60_v2.with_grave_escape_laytou.json file
-
 ## Using VIA.app
 
 ### Step-by-step instructions in VIA.app using configuration files
@@ -20,7 +11,7 @@ Use nuphy_air60_v2.with_grave_escape_laytou.json file
 - Click 'LOAD' and choose the file nuphy-air60-v2-via_definition.json
 - Select 'CONFIGURE' from the top menu
 - Select the 'SAVE + LOAD' tab from the side menu
-- Click 'LOAD' and choose the file nuphy_air60_v2.original_layout if you want to load the original layout.jso or nuphy_air60_v2.with_grave_escape_layout.json to load the layout with 'GRAVE ESCAPE'.
+- Click 'LOAD' and choose the file nuphy_air60_v2.original_layout if you want to load the original layout or nuphy_air60_v2.with_grave_escape_layout.json to load the layout with 'GRAVE ESCAPE'
 
 ### Step-by-step instructions in VIA.app and manual configuration
 - Open VIA and connect the keyboard (usevia.app)
